@@ -1,5 +1,6 @@
 import random
 
+
 print("Hello, my friend.")
 answer = input("Do you got couple minutes to check my project?(yes/no):  ")
 answers = ["Yes", "yes", "No", "no"]
